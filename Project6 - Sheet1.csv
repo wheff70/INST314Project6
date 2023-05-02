@@ -1,0 +1,11 @@
+Answer to Q1,Answer to Q2,Answer to Q3,Answer to Q4,Answer to Q5,Respondent's Age,Respondent's Gender,Respondent's Occupation
+1,5,5,Difference-removing,No,21,Male,Student
+1,3,7,Difference-honoring,No,22,Male,Student
+1,6,9,Difference-denying,No,20,Male,Engineer
+3,1,10,Difference-denying,No,21,Female,Student
+6,1,7,Difference-honoring,No,21,Female,Student
+2,4,7,Difference-honoring,No,21,Female,Student
+1,1,10,Difference-removing,Yes,52,Female,Nurse
+2,1,10,Difference-honoring,Yes,48,Female,Teacher
+3,3,6,Difference-honoring,No,55,Male,Network manager
+3,1,7,Difference-honoring,No,22,Male,Student
